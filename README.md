@@ -66,9 +66,9 @@ Code Collaboration: Github
 
 ### Front End
 | [HTML](https://www.w3schools.com/html/)      | [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)      | [NodeJS](https://nodejs.org/en/)      | [Prettier](https://prettier.io/)      | [Eslint](https://eslint.org/)      |
-|-------------|-------------|-------------|-------------|-------------|-------------|
+|-------------|-------------|-------------|-------------|-------------|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="100"> | <img src="https://www.computerhope.com/jargon/j/javascript.png" width="100"> | <img src="https://user-images.githubusercontent.com/60727435/174690843-9fdfac60-e4c0-4ae8-a565-8212bd720ace.png" width="100"> | <img src="https://avatars.githubusercontent.com/u/25822731?s=200&v=4" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/ESLint_logo.svg" width="100"> |
 
 | [Bootstrap](https://getbootstrap.com/)          | [Github](https://github.com/)      | [Vercel](https://vercel.com/) |
-|-------------|-------------|-------------|-------------|-------------|
+|-------------|-------------|-------------|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="100">  | <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="100"> | <img src="https://imgs.search.brave.com/--jfYiBCUl-qRYAZCbyFnrsefgGO8qHTSICTGLNieN4/rs:fit:560:320:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi81LzVlL1Zl/cmNlbF9sb2dvX2Js/YWNrLnN2Zy81MTJw/eC1WZXJjZWxfbG9n/b19ibGFjay5zdmcu/cG5n" width="100"> |
