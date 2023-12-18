@@ -31,6 +31,28 @@ Menurut BPS, pada tahun 2020, jumlah penduduk Kota Banjarmasin mencapai 657.663 
 <img src="https://firebasestorage.googleapis.com/v0/b/sapu-project-af7ea.appspot.com/o/images%2FCuplikan%20layar%202023-12-18%20102437.png?alt=media&token=fd711d41-ca58-41c5-84e8-5578e7f931f2"width="500">
 <img src="https://firebasestorage.googleapis.com/v0/b/sapu-project-af7ea.appspot.com/o/images%2FCuplikan%20layar%202023-12-18%20102450.png?alt=media&token=33632d1b-bd75-43bb-ad90-2f843929d543"width="500">
 
+## Contributors ✨
+
+Thanks goes to these wonderful people
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><img src="https://firebasestorage.googleapis.com/v0/b/sapu-project-af7ea.appspot.com/o/images%2Fadel.jpg?alt=media&token=c770505e-429c-42f9-83c0-9592bd201b94" width="100px;" alt=""/><br /><sub><b>F247XA346</b></sub><br />
+    <p style="font-size:10px">Delphia Aryana</p></td>
+    <td align="center"><img src="https://firebasestorage.googleapis.com/v0/b/sapu-project-af7ea.appspot.com/o/images%2Fiif.jpg?alt=media&token=d33d5667-ba3e-45c8-a51d-b950cdf12413" width="100px;" alt=""/><br /><sub><b>F247XA347</b></sub><br />
+    <p style="font-size:10px">Iif Alifah</p></td>
+    <td align="center"><img src="https://firebasestorage.googleapis.com/v0/b/sapu-project-af7ea.appspot.com/o/images%2Feriska.jpg?alt=media&token=ede275b5-5160-4856-abd3-9794a7e4f598" width="100px;" alt=""/><br /><sub><b>F251XB109</b></sub><br />
+    <p style="font-size:10px">Eriska Hamida Sihotang</p></td>
+    <td align="center"><img src="https://firebasestorage.googleapis.com/v0/b/sapu-project-af7ea.appspot.com/o/images%2Fyudha.jpg?alt=media&token=351d03ec-2aa5-485f-b394-65e81b3abfd8" width="100px;" alt=""/><br /><sub><b>F251YB078</b></sub><br />
+    <p style="font-size:10px">Muhammad Yudya Ananda Hasibuan</p></td>
+    <td align="center"><img src="https://firebasestorage.googleapis.com/v0/b/sapu-project-af7ea.appspot.com/o/images%2Fsugi.jpg?alt=media&token=8b9cf238-7a3e-4db4-99d2-749fe261d2f9" width="100px;" alt=""/><br /><sub><b>S247YA443</b></sub><br />
+    <p style="font-size:10px">Akhmad Sugiannor</p></td>
+  </tr>
+</table>
+
 
 ### Risk and Issue Management Plan
 | Strengths | Weaknesses | Opportunities | Threats |
