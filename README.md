@@ -59,15 +59,16 @@ Code Collaboration: Github
 | <img src="https://user-images.githubusercontent.com/60727435/174691354-6a8a8794-60a1-4520-887f-0ca62bc2fd3e.svg" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="100"> |
 
 ### Back End
-| [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)      | [PostgreSQL](https://www.postgresql.org/)      | [Postman](https://www.postman.com/)      | [NodeJS](https://nodejs.org/en/)      | [Express](https://expressjs.com/)      | [Sequelize](https://sequelize.org/)      |
+| [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)      | [MySQL] | [Postman](https://www.postman.com/)      | [NodeJS](https://nodejs.org/en/)      | [Express](https://expressjs.com/)      | [Sequelize](https://sequelize.org/)      |
 |-------------|-------------|-------------|-------------|-------------|-------------|
 | <img src="https://www.computerhope.com/jargon/j/javascript.png" width="100"> | <img src="https://firebasestorage.googleapis.com/v0/b/sapu-project-af7ea.appspot.com/o/images%2Fmysql.png?alt=media&token=2971ad38-9f7e-4cef-86ae-a1bec3bf5e3c" width="100"> | <img src="https://miro.medium.com/max/640/1*4b2A9LnOXidRaqXXU8CZMA.webp" width="100"> | <img src="https://user-images.githubusercontent.com/60727435/174690843-9fdfac60-e4c0-4ae8-a565-8212bd720ace.png" width="100"> | <img src="https://img2.pngdownload.id/20180614/aut/kisspng-node-js-express-js-javascript-solution-stack-web-a-5b22b9d544a3c5.7437956215290024532812.jpg" width="100"> | <img src="https://sequelize.org/img/logo.svg" width="100"> |
+
 
 ### Front End
 | [HTML](https://www.w3schools.com/html/)      | [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)      | [NodeJS](https://nodejs.org/en/)      | [Prettier](https://prettier.io/)      | [Eslint](https://eslint.org/)      |
 |-------------|-------------|-------------|-------------|-------------|-------------|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="100"> | <img src="https://www.computerhope.com/jargon/j/javascript.png" width="100"> | <img src="https://user-images.githubusercontent.com/60727435/174690843-9fdfac60-e4c0-4ae8-a565-8212bd720ace.png" width="100"> | <img src="https://avatars.githubusercontent.com/u/25822731?s=200&v=4" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/ESLint_logo.svg" width="100"> |
 
-| [Bootstrap](https://getbootstrap.com/)          | [Github](https://github.com/)      | [Vercel](https://vercel.com/)      |
+| [Bootstrap](https://getbootstrap.com/)          | [Github](https://github.com/)      | [Vercel](https://vercel.com/) |
 |-------------|-------------|-------------|-------------|-------------|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="100">  | <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="100"> | <img src="https://imgs.search.brave.com/--jfYiBCUl-qRYAZCbyFnrsefgGO8qHTSICTGLNieN4/rs:fit:560:320:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi81LzVlL1Zl/cmNlbF9sb2dvX2Js/YWNrLnN2Zy81MTJw/eC1WZXJjZWxfbG9n/b19ibGFjay5zdmcu/cG5n" width="100"> |
